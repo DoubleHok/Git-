@@ -79,6 +79,9 @@ git reflog （获取到版本号）
 Git commit 错误: Changes not staged for commit:
 解决方法：使用git commit -am'..'
 原因：git commit -m用于提交暂存区的文件，git commit -am用于提交跟踪过的文件。
+在本地的Git-仓库下运行命令
+git remote add origin https://github.com/DoubleHok/Git-.git
+git push -u origin master (把本地仓库分支master内容推送到远程仓库中）
 
 =======
 >>>>>>> f6dfa691a82ed552d335f0950b2f5ce1698f683d
