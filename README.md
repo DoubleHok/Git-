@@ -1,6 +1,6 @@
 # Git-
 Git使用总结
-<<<<<<< HEAD
+
 一、配置信息
 1、因为Git是分布式版本控制系统，需要填写用户名和邮箱作为一个标识
 命令：git config --global user.name "DoubleHok"
@@ -83,5 +83,5 @@ Git commit 错误: Changes not staged for commit:
 git remote add origin https://github.com/DoubleHok/Git-.git
 git push -u origin master (把本地仓库分支master内容推送到远程仓库中）
 
-=======
->>>>>>> f6dfa691a82ed552d335f0950b2f5ce1698f683d
+作者：涂根华
+来源：https://www.cnblogs.com/tugenhua0707/p/4050072.html
